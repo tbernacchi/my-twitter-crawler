@@ -1,5 +1,5 @@
 # twitter-crawler
-Simple crawler using search tags from Twitter API using Go.
+Simple crawler using search tags from Twitter API using Go. Insert the posts into a Elasticsearch.
 
 ## Requirements 
 * Go: https://golang.org/
