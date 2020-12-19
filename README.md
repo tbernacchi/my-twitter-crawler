@@ -27,7 +27,7 @@
 * Docker: https://www.docker.com/;
 * ELK: you can use this one: https://github.com/tbernacchi/meu-elk-compose
 
-## How to use 
+## Usage
 
 With your account approved on Twitter, you must create an app with tokens to access the API;
 
